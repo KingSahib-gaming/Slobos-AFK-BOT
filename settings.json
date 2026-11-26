@@ -8,7 +8,7 @@
   "server": {
     "ip": "TheKingsSMP1.aternos.me",
     "port": 32264,
-    "version": "1.21.1"
+    "version": "1.21.11"
   },
   "position": {
     "enabled": true,
